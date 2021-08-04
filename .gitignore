@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+dav-proj.json
+
 # Distribution / packaging
 .Python
 build/
