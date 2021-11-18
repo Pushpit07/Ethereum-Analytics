@@ -1,7 +1,11 @@
 ## Dataset
 
-https://www.kaggle.com/bigquery/ethereum-blockchain?select=contracts
+https://www.kaggle.com/bigquery/ethereum-blockchain
 
-### Sample Code
+## Kaggle Notebook
 
-https://www.kaggle.com/mrisdal/visualizing-average-ether-costs-over-time
+https://www.kaggle.com/pushpit07/ethereum-analytics
+
+## Google Doc
+
+https://docs.google.com/document/d/15SvtuZbOG3gV3IaAcbZ0_w4Uy4xnmUJ-RavhlCXwnBs/edit?usp=sharing
